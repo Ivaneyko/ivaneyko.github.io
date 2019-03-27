@@ -1,0 +1,2735 @@
+[ {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T07:55:18",
+  "id" : 57,
+  "file" : {
+    "id" : "1Fx8NTnK95BaItN7dg3j4C_QkUbplp66q",
+    "name" : "The Spine Center of Sarasota - MR - Rosado-79669.pdf"
+  },
+  "status" : "processing",
+  "numberOfPages" : 13,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1952-03-03",
+      "text" : "3.3.52"
+    },
+    "pages" : [ 5 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 1, 2, 13 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB 02/09/1991"
+    },
+    "pages" : [ 2, 5, 7, 9 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 02/09/1991"
+    },
+    "pages" : [ 2, 4, 5, 6, 7, 9, 10 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2001-01-01",
+      "text" : "DATE 01/01/2001"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2005-10-02",
+      "text" : "DATE 05/10/2"
+    },
+    "pages" : [ 6 ]
+  }, {
+    "attribute" : {
+      "value" : "2007-04-27",
+      "text" : "04/27/2007"
+    },
+    "pages" : [ 12 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "7/21/15"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-09-08",
+      "text" : "09/08/2016"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-02-08",
+      "text" : "DATE 02/08/2017"
+    },
+    "pages" : [ 9 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-01",
+      "text" : "04/01/2017"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-04-19",
+      "text" : "DATE 04/19/2017"
+    },
+    "pages" : [ 7 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-27",
+      "text" : "04/27/2017"
+    },
+    "pages" : [ 12 ]
+  }, {
+    "attribute" : {
+      "name" : "date of procedure",
+      "value" : "2017-04-27",
+      "text" : "DATE OF PROCEDURE: April 27,2017"
+    },
+    "pages" : [ 11 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2017-04-28",
+      "text" : "Last Updated: 04/28/2017"
+    },
+    "pages" : [ 12 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-28",
+      "text" : "04/28/2017"
+    },
+    "pages" : [ 11, 12 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-10",
+      "text" : "05/10/17"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-05-10",
+      "text" : "DATE 05/10/2017"
+    },
+    "pages" : [ 6 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-24",
+      "text" : "05/24/2017"
+    },
+    "pages" : [ 5, 13 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-24",
+      "text" : "May 24,2017"
+    },
+    "pages" : [ 13 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-24",
+      "text" : "5/24/2017"
+    },
+    "pages" : [ 13 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-26",
+      "text" : "05/26/2017"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-06-02",
+      "text" : "6/2/2017"
+    },
+    "pages" : [ 2, 3, 6, 7 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-08-02",
+      "text" : "8/2/2017"
+    },
+    "pages" : [ 4, 10 ]
+  }, {
+    "attribute" : {
+      "value" : "3100-01-01",
+      "text" : "1 01 3100"
+    },
+    "pages" : [ 2 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:19:43",
+  "id" : 58,
+  "file" : {
+    "id" : "181rqQkgfGeSekIZK5C3nEvEwXH0MziEL",
+    "name" : "Sarasota Hospital - MR - DOS 11-2-17 updated 2-6-18 UNRELATED-90770.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 43,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "0145-11-02",
+      "text" : "014511-02"
+    },
+    "pages" : [ 42 ]
+  }, {
+    "attribute" : {
+      "value" : "1599-02-09",
+      "text" : "09-Feb-1599"
+    },
+    "pages" : [ 35 ]
+  }, {
+    "attribute" : {
+      "value" : "1945-11-02",
+      "text" : "4511-02"
+    },
+    "pages" : [ 42 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 09-Feb-1991"
+    },
+    "pages" : [ 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 19, 20, 25, 26, 29, 31, 32, 33, 34, 36, 37, 38, 39 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 2/9/1991"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 1991-02-09"
+    },
+    "pages" : [ 40 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "09-Feb-1991"
+    },
+    "pages" : [ 28, 30, 40, 41, 42 ]
+  }, {
+    "attribute" : {
+      "value" : "2007-11-02",
+      "text" : "11-02-2007"
+    },
+    "pages" : [ 42 ]
+  }, {
+    "attribute" : {
+      "value" : "2012-07-20",
+      "text" : "07/20/2012"
+    },
+    "pages" : [ 40 ]
+  }, {
+    "attribute" : {
+      "value" : "2013-11-09",
+      "text" : "11/09/2013"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-02-13",
+      "text" : "13/02/2017"
+    },
+    "pages" : [ 34 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-27",
+      "text" : "4/27/2017"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-11-02",
+      "text" : "Date: 2017-11-02"
+    },
+    "pages" : [ 40 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-02",
+      "text" : "11-02-2017"
+    },
+    "pages" : [ 10, 34, 40, 41, 42 ]
+  }, {
+    "attribute" : {
+      "name" : "admit date",
+      "value" : "2017-11-02",
+      "text" : "Admit Date: 11-02-2017"
+    },
+    "pages" : [ 1, 5, 6, 7, 8, 9, 11, 12, 13, 17, 19, 20, 25, 26, 28, 29, 30, 31, 32, 33, 36, 37, 38, 39 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-02",
+      "text" : "11/02/2017"
+    },
+    "pages" : [ 9, 11, 17, 31, 32, 33, 34, 41, 42 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-02",
+      "text" : "11/2/2017"
+    },
+    "pages" : [ 2, 38 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-03",
+      "text" : "11/03/2017"
+    },
+    "pages" : [ 30 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-05",
+      "text" : "11/05/2017"
+    },
+    "pages" : [ 10 ]
+  }, {
+    "attribute" : {
+      "value" : "2018-01-10",
+      "text" : "10-Jan-2018"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "value" : "2018-01-10",
+      "text" : "01/10/2018"
+    },
+    "pages" : [ 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 19, 20, 25, 26, 28, 29, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42 ]
+  }, {
+    "attribute" : {
+      "value" : "2047-01-02",
+      "text" : "1/2/2047"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2047-11-02",
+      "text" : "Last Updated: 11/02/2047"
+    },
+    "pages" : [ 30 ]
+  }, {
+    "attribute" : {
+      "value" : "2817-11-02",
+      "text" : "11/02/2817"
+    },
+    "pages" : [ 34 ]
+  }, {
+    "attribute" : {
+      "value" : "2914-09-10",
+      "text" : "9/10/2914"
+    },
+    "pages" : [ 35 ]
+  }, {
+    "attribute" : {
+      "value" : "3017-11-02",
+      "text" : "11/02/3017"
+    },
+    "pages" : [ 7 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:11:18",
+  "id" : 59,
+  "file" : {
+    "id" : "1roBFVNdCKTden20HXRDPWeFk4F5889TE",
+    "name" : "MR- Physicians Group-75731.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 577,
+  "attributes" : [ {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "1920-09-08",
+      "text" : "Today's Date: 09/08/20"
+    },
+    "pages" : [ 108 ]
+  }, {
+    "attribute" : {
+      "value" : "1928-05-19",
+      "text" : "5 19.28"
+    },
+    "pages" : [ 519 ]
+  }, {
+    "attribute" : {
+      "value" : "1931-02-09",
+      "text" : "2/9 31"
+    },
+    "pages" : [ 444 ]
+  }, {
+    "attribute" : {
+      "value" : "1935-05-02",
+      "text" : "52 35"
+    },
+    "pages" : [ 490 ]
+  }, {
+    "attribute" : {
+      "value" : "1942-03-04",
+      "text" : "42,3,4"
+    },
+    "pages" : [ 176, 292, 524 ]
+  }, {
+    "attribute" : {
+      "value" : "1943-01-02",
+      "text" : "12,43"
+    },
+    "pages" : [ 255 ]
+  }, {
+    "attribute" : {
+      "value" : "1951-02-09",
+      "text" : "02/09/1951"
+    },
+    "pages" : [ 491 ]
+  }, {
+    "attribute" : {
+      "value" : "1965-01-08",
+      "text" : "1/8 65"
+    },
+    "pages" : [ 181 ]
+  }, {
+    "attribute" : {
+      "value" : "1971-07-02",
+      "text" : "7 2/71"
+    },
+    "pages" : [ 16 ]
+  }, {
+    "attribute" : {
+      "value" : "1971-09-03",
+      "text" : "9/3 71"
+    },
+    "pages" : [ 150 ]
+  }, {
+    "attribute" : {
+      "value" : "1980-04-09",
+      "text" : "4 9 80"
+    },
+    "pages" : [ 558 ]
+  }, {
+    "attribute" : {
+      "value" : "1981-01-05",
+      "text" : "1.5-81"
+    },
+    "pages" : [ 171 ]
+  }, {
+    "attribute" : {
+      "value" : "1981-02-09",
+      "text" : "02/09/1981"
+    },
+    "pages" : [ 25, 116, 366, 564 ]
+  }, {
+    "attribute" : {
+      "value" : "1981-05-05",
+      "text" : "5 5-81"
+    },
+    "pages" : [ 220 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-02",
+      "text" : "2/2 91"
+    },
+    "pages" : [ 164 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-04",
+      "text" : "02/04/1991"
+    },
+    "pages" : [ 236 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 2/9/1991"
+    },
+    "pages" : [ 473 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB : 02/09/1991"
+    },
+    "pages" : [ 377, 382, 388 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "2/9/91"
+    },
+    "pages" : [ 18, 197, 243 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 35, 41, 51, 57, 105, 121, 127, 132, 171, 229, 230, 231, 232, 233, 234, 235, 237, 262, 276, 291, 295, 308, 316, 334, 353, 365, 407, 417, 479, 532, 545, 565, 570, 571 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "2/9 91"
+    },
+    "pages" : [ 73, 521 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB 02/09/1991"
+    },
+    "pages" : [ 541, 559 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/ 09/ 1991"
+    },
+    "pages" : [ 423 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 02/09/1991"
+    },
+    "pages" : [ 274, 288 ]
+  }, {
+    "attribute" : {
+      "value" : "1997-02-07",
+      "text" : "2.7.97"
+    },
+    "pages" : [ 468 ]
+  }, {
+    "attribute" : {
+      "value" : "1999-09-01",
+      "text" : "09/1 99"
+    },
+    "pages" : [ 68 ]
+  }, {
+    "attribute" : {
+      "value" : "2000-01-05",
+      "text" : "15.00"
+    },
+    "pages" : [ 496 ]
+  }, {
+    "attribute" : {
+      "value" : "2000-01-10",
+      "text" : "1 10.00"
+    },
+    "pages" : [ 516 ]
+  }, {
+    "attribute" : {
+      "value" : "2000-03-10",
+      "text" : "3 10.00"
+    },
+    "pages" : [ 516, 519 ]
+  }, {
+    "attribute" : {
+      "value" : "2000-03-30",
+      "text" : "3 30.00"
+    },
+    "pages" : [ 519 ]
+  }, {
+    "attribute" : {
+      "value" : "2000-04-04",
+      "text" : "4/4 00"
+    },
+    "pages" : [ 100 ]
+  }, {
+    "attribute" : {
+      "value" : "2000-05-10",
+      "text" : "5 10.00"
+    },
+    "pages" : [ 517, 519 ]
+  }, {
+    "attribute" : {
+      "value" : "2000-08-05",
+      "text" : "8.5. 00"
+    },
+    "pages" : [ 474 ]
+  }, {
+    "attribute" : {
+      "value" : "2001-01-05",
+      "text" : "1.5 01"
+    },
+    "pages" : [ 400 ]
+  }, {
+    "attribute" : {
+      "value" : "2001-09-08",
+      "text" : "00019/8"
+    },
+    "pages" : [ 536 ]
+  }, {
+    "attribute" : {
+      "value" : "2001-10-26",
+      "text" : "000110/26"
+    },
+    "pages" : [ 538 ]
+  }, {
+    "attribute" : {
+      "value" : "2002-01-05",
+      "text" : "1.5 02"
+    },
+    "pages" : [ 437 ]
+  }, {
+    "attribute" : {
+      "value" : "2002-01-05",
+      "text" : "01.5 02"
+    },
+    "pages" : [ 400 ]
+  }, {
+    "attribute" : {
+      "value" : "2002-03-04",
+      "text" : "02,3,4"
+    },
+    "pages" : [ 176 ]
+  }, {
+    "attribute" : {
+      "value" : "2002-09-01",
+      "text" : "02/09/1"
+    },
+    "pages" : [ 391 ]
+  }, {
+    "attribute" : {
+      "value" : "2006-08-01",
+      "text" : "Aug-1-2006"
+    },
+    "pages" : [ 561 ]
+  }, {
+    "attribute" : {
+      "value" : "2009-03-17",
+      "text" : "03/17/09"
+    },
+    "pages" : [ 15, 464, 573 ]
+  }, {
+    "attribute" : {
+      "value" : "2010-04-09",
+      "text" : "49 10"
+    },
+    "pages" : [ 417 ]
+  }, {
+    "attribute" : {
+      "value" : "2010-08-05",
+      "text" : "8/05/10"
+    },
+    "pages" : [ 332 ]
+  }, {
+    "attribute" : {
+      "value" : "2010-10-10",
+      "text" : "10 10 10"
+    },
+    "pages" : [ 231 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2011-03-14",
+      "text" : "Updated 03/14/11"
+    },
+    "pages" : [ 276 ]
+  }, {
+    "attribute" : {
+      "value" : "2011-09-08",
+      "text" : "9-8-2011"
+    },
+    "pages" : [ 14, 312 ]
+  }, {
+    "attribute" : {
+      "value" : "2011-09-10",
+      "text" : "9,10,11"
+    },
+    "pages" : [ 390 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2011-10-06",
+      "text" : "Date: 10/6/11"
+    },
+    "pages" : [ 157 ]
+  }, {
+    "attribute" : {
+      "value" : "2012-03-04",
+      "text" : "12,3,4"
+    },
+    "pages" : [ 76, 190, 300, 524 ]
+  }, {
+    "attribute" : {
+      "value" : "2012-03-04",
+      "text" : "12.3,4"
+    },
+    "pages" : [ 524 ]
+  }, {
+    "attribute" : {
+      "value" : "2012-03-04",
+      "text" : "12/3,4"
+    },
+    "pages" : [ 6, 157 ]
+  }, {
+    "attribute" : {
+      "value" : "2012-03-20",
+      "text" : "3 20 12"
+    },
+    "pages" : [ 389 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2012-11-21",
+      "text" : "Updated 11/21/2012"
+    },
+    "pages" : [ 18, 197 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2012-11-21",
+      "text" : "Updated 11/21/12"
+    },
+    "pages" : [ 67, 125, 376, 422 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2012-11-21",
+      "text" : "updated 11/21/12"
+    },
+    "pages" : [ 23 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-01-16",
+      "text" : "Updated 1/16/13"
+    },
+    "pages" : [ 73, 202 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-02-16",
+      "text" : "Updated 2/16/13"
+    },
+    "pages" : [ 210 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-04-17",
+      "text" : "Updated 04/17/13"
+    },
+    "pages" : [ 417 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2013-07-21",
+      "text" : "DATE OF INJURY: 07/21/2013"
+    },
+    "pages" : [ 308 ]
+  }, {
+    "attribute" : {
+      "value" : "2013-07-21",
+      "text" : "7/21/13"
+    },
+    "pages" : [ 228 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2013-07-30",
+      "text" : "Today's Date: 07/30/2013"
+    },
+    "pages" : [ 38 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2013-08-12",
+      "text" : "DATE OF EXAM: 08/12/2013"
+    },
+    "pages" : [ 365 ]
+  }, {
+    "attribute" : {
+      "value" : "2013-08-30",
+      "text" : "8/30/13"
+    },
+    "pages" : [ 433 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2013-09-10",
+      "text" : "Date: 09/10/2013"
+    },
+    "pages" : [ 118 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2013-09-10",
+      "text" : "Today's Date: 09/10/2013"
+    },
+    "pages" : [ 408 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-09-14",
+      "text" : "updated 9/14/13"
+    },
+    "pages" : [ 396 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-09-15",
+      "text" : "updated 09/15/13"
+    },
+    "pages" : [ 91 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-09-16",
+      "text" : "updated 9/16/13"
+    },
+    "pages" : [ 12 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-09-16",
+      "text" : "updated 09/16/13"
+    },
+    "pages" : [ 13, 83, 310 ]
+  }, {
+    "attribute" : {
+      "value" : "2013-09-16",
+      "text" : "9/16/13"
+    },
+    "pages" : [ 196 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-09-16",
+      "text" : "Updated 09/16/13"
+    },
+    "pages" : [ 86, 212 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2013-09-16",
+      "text" : "Updated 9/16/13"
+    },
+    "pages" : [ 11, 81 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2013-11-11",
+      "text" : "Date: 11/11/2013"
+    },
+    "pages" : [ 279 ]
+  }, {
+    "attribute" : {
+      "value" : "2014-01-04",
+      "text" : "01/04/2014"
+    },
+    "pages" : [ 475 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2014-05-25",
+      "text" : "Date 5/25/2014"
+    },
+    "pages" : [ 85 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2014-08-12",
+      "text" : "Updated 8/12/14"
+    },
+    "pages" : [ 1, 185 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2014-09-25",
+      "text" : "Date 9/25/2014"
+    },
+    "pages" : [ 17, 138, 315, 400, 437 ]
+  }, {
+    "attribute" : {
+      "value" : "2014-10-15",
+      "text" : "10/15/14"
+    },
+    "pages" : [ 103, 224 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-01-03",
+      "text" : "1 3/2015"
+    },
+    "pages" : [ 367 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-01-04",
+      "text" : "1 4/2015"
+    },
+    "pages" : [ 273 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-01-06",
+      "text" : "1 6 15"
+    },
+    "pages" : [ 158 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-04-17",
+      "text" : "04/17/15"
+    },
+    "pages" : [ 334, 423 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2015-04-17",
+      "text" : "Updated 04/17/15"
+    },
+    "pages" : [ 25, 41, 46, 51, 57, 62, 68, 105, 116, 121, 127, 132, 316, 353, 358, 366, 371, 401, 407, 428 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-04-23",
+      "text" : "4-23.15"
+    },
+    "pages" : [ 17 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-04-30",
+      "text" : "DATE: 04-30-2015"
+    },
+    "pages" : [ 457 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-05-25",
+      "text" : "Today's Date: 5/25/15"
+    },
+    "pages" : [ 209 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-06-07",
+      "text" : "6 7/15"
+    },
+    "pages" : [ 256 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "Date of Injury: 07/21 2015"
+    },
+    "pages" : [ 423 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "DATE OF INJURY: 07/21/2015"
+    },
+    "pages" : [ 171, 532 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "Date of Injury: 07/21/2015"
+    },
+    "pages" : [ 121, 132, 334, 353, 407 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "Date of INJURY: 7/21 15"
+    },
+    "pages" : [ 148, 164 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "7/21 15"
+    },
+    "pages" : [ 13 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "7/21/15"
+    },
+    "pages" : [ 93, 227, 243, 244 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "07/21/2015"
+    },
+    "pages" : [ 35, 41, 51, 105, 116, 274, 288, 316, 377, 379, 380, 382, 388, 417, 473 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "DATE OF INJURY: 07/21/15"
+    },
+    "pages" : [ 93, 227 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "7 21,15"
+    },
+    "pages" : [ 453 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "07/21/15"
+    },
+    "pages" : [ 491, 541, 559 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "July 21, 2015"
+    },
+    "pages" : [ 94, 171, 308, 309, 532, 533 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "Date of INJURY: 07/21/2015"
+    },
+    "pages" : [ 262, 276, 291 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "Date of INJURY: 7/21/15"
+    },
+    "pages" : [ 18 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-07-21",
+      "text" : "Date: 7 21 15"
+    },
+    "pages" : [ 190, 191 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "Date of injury: 07/21/2015"
+    },
+    "pages" : [ 25 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-23",
+      "text" : "07/23/15"
+    },
+    "pages" : [ 491, 541, 559 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-27",
+      "text" : "Jul. 27. 2015"
+    },
+    "pages" : [ 453 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-27",
+      "text" : "JUL-27-2015"
+    },
+    "pages" : [ 482 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-07-28",
+      "text" : "Today's Date: 07/28/2015"
+    },
+    "pages" : [ 26, 27, 318 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-28",
+      "text" : "07/28/2015"
+    },
+    "pages" : [ 25, 28 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-07-30",
+      "text" : "Date: 07/30/2015"
+    },
+    "pages" : [ 36, 37, 329 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-04",
+      "text" : "Date : 08/04/2015"
+    },
+    "pages" : [ 383, 384, 385, 386, 387 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-04",
+      "text" : "08/04/2015"
+    },
+    "pages" : [ 379 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-04",
+      "text" : "08/04/15"
+    },
+    "pages" : [ 491, 541, 559 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-08-04",
+      "text" : "Today's Date: 08/04/2015"
+    },
+    "pages" : [ 42, 43, 334, 336 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-04",
+      "text" : "Date: 08/04/2015"
+    },
+    "pages" : [ 44, 337 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-08-06",
+      "text" : "Today's Date: 08/06/2015"
+    },
+    "pages" : [ 49, 355, 356 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-06",
+      "text" : "Date: 08/06/2015"
+    },
+    "pages" : [ 46, 47, 48, 354 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-08",
+      "text" : "Date: 08/08/2015"
+    },
+    "pages" : [ 353, 401, 403 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-11",
+      "text" : "08/11/2015"
+    },
+    "pages" : [ 52, 358 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-11",
+      "text" : "Date: 08/11/2015"
+    },
+    "pages" : [ 53, 54, 359, 360, 417 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-08-11",
+      "text" : "Today's Date: 08/11/2015"
+    },
+    "pages" : [ 361 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-12",
+      "text" : "08/12/15"
+    },
+    "pages" : [ 491, 541, 559 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2015-08-12",
+      "text" : "DATE OF EXAM: 08/12/2015"
+    },
+    "pages" : [ 564, 565, 570, 571 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-12",
+      "text" : "8/12/15"
+    },
+    "pages" : [ 93, 227, 243 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-13",
+      "text" : "Date: 08/13/2015"
+    },
+    "pages" : [ 60 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-08-13",
+      "text" : "Today's Date: 08/13/2015"
+    },
+    "pages" : [ 57, 59, 366, 368 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-18",
+      "text" : "Date: 08/18/2015"
+    },
+    "pages" : [ 63, 64, 374 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-08-18",
+      "text" : "Today's Date: 08/18/2015"
+    },
+    "pages" : [ 65, 373 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-18",
+      "text" : "08/18/2015"
+    },
+    "pages" : [ 371, 372, 377, 379, 382, 383, 384, 385, 386, 387, 388 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-21",
+      "text" : "Date: 08/21/2015"
+    },
+    "pages" : [ 68, 70, 71, 391, 392, 394 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-08-21",
+      "text" : "Today's Date: 08/21/2015"
+    },
+    "pages" : [ 69, 393 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-08-25",
+      "text" : "Today's Date: 8 25 15"
+    },
+    "pages" : [ 79 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-25",
+      "text" : "8/25 15"
+    },
+    "pages" : [ 82, 211 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2015-09-01",
+      "text" : "DATE OF EXAM: 09/1/15"
+    },
+    "pages" : [ 93, 227 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-09-01",
+      "text" : "9/1/15"
+    },
+    "pages" : [ 172, 228 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-09-08",
+      "text" : "09/08/2015"
+    },
+    "pages" : [ 106 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-09-08",
+      "text" : "Date: 09/08/2015"
+    },
+    "pages" : [ 107, 402, 404 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-09-08",
+      "text" : "Today's Date: 09/08/2015"
+    },
+    "pages" : [ 105 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2015-09-09",
+      "text" : "DATE OF EXAM: 9/9/15"
+    },
+    "pages" : [ 243 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-09-09",
+      "text" : "9/09/2015"
+    },
+    "pages" : [ 232 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-09-09",
+      "text" : "Date: 09/09/2015"
+    },
+    "pages" : [ 229, 231, 233, 234, 236, 237 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-09-09",
+      "text" : "9/9/15"
+    },
+    "pages" : [ 244 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-09-09",
+      "text" : "09/09/2015"
+    },
+    "pages" : [ 230, 235 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-09-10",
+      "text" : "09/10/2015"
+    },
+    "pages" : [ 117 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-09-10",
+      "text" : "Date: 09/10/2015"
+    },
+    "pages" : [ 119 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-09-10",
+      "text" : "Today's Date: 09/10/2015"
+    },
+    "pages" : [ 409, 410 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-09-11",
+      "text" : "Date: 09/11/2015"
+    },
+    "pages" : [ 122, 123, 124, 419 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-09-11",
+      "text" : "Today's Date: 09/11/2015"
+    },
+    "pages" : [ 121, 418, 420 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2015-09-14",
+      "text" : "Updated 9/14/2015"
+    },
+    "pages" : [ 154, 252 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2015-09-15",
+      "text" : "Updated 9/15/15"
+    },
+    "pages" : [ 148, 438, 444 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-09-21",
+      "text" : "09/21/2015"
+    },
+    "pages" : [ 128 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-09-21",
+      "text" : "Today's Date: 09/21/2015"
+    },
+    "pages" : [ 424 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-09-21",
+      "text" : "Date: 09/21/2015"
+    },
+    "pages" : [ 129, 130, 425, 426 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-09-24",
+      "text" : "Today's Date: 09/24/2015"
+    },
+    "pages" : [ 132, 133, 135, 428, 429 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-09-24",
+      "text" : "Date: 09/24/2015"
+    },
+    "pages" : [ 134, 430, 431 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2015-09-25",
+      "text" : "DATE OF EXAM: 09/25/15"
+    },
+    "pages" : [ 479 ]
+  }, {
+    "attribute" : {
+      "name" : "signed date",
+      "value" : "2015-09-29",
+      "text" : "Signed on: 9/29/2015"
+    },
+    "pages" : [ 480 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-10-01",
+      "text" : "Date: 10, 1 15"
+    },
+    "pages" : [ 141 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-10-06",
+      "text" : "Oct. 6. 2015"
+    },
+    "pages" : [ 479, 480 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-10-06",
+      "text" : "10/6 15"
+    },
+    "pages" : [ 163 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-10-06",
+      "text" : "Today's Date: 10/6 15"
+    },
+    "pages" : [ 254 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-10-06",
+      "text" : "10/6/15"
+    },
+    "pages" : [ 257 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-10-06",
+      "text" : "Today's Date: 10/6/15"
+    },
+    "pages" : [ 258 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-10-06",
+      "text" : "Today's Date: 10 6 15"
+    },
+    "pages" : [ 255 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-10-06",
+      "text" : "Date: 10/6/15"
+    },
+    "pages" : [ 259 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-10-06",
+      "text" : "Date: 10/6 15"
+    },
+    "pages" : [ 156 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-10-06",
+      "text" : "Today's Date: 10,6 15"
+    },
+    "pages" : [ 155 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-10-14",
+      "text" : "10/14/2015"
+    },
+    "pages" : [ 270 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-10-14",
+      "text" : "Date: 10/14/2015"
+    },
+    "pages" : [ 262, 263, 264, 274, 275 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-10-14",
+      "text" : "Today's Date: 10/14/2015"
+    },
+    "pages" : [ 265, 266 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-10-14",
+      "text" : "DATE: 10/14/2015"
+    },
+    "pages" : [ 269 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-11-11",
+      "text" : "Date: 11/11/2015"
+    },
+    "pages" : [ 277, 278, 282, 287, 288, 289 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-11-11",
+      "text" : "11/11/2015"
+    },
+    "pages" : [ 473 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-11-11",
+      "text" : "Today's Date: 11/11/2015"
+    },
+    "pages" : [ 276 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-11-11",
+      "text" : "DATE: 11/11/2015"
+    },
+    "pages" : [ 283 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-01-05",
+      "text" : "January 5, 2016"
+    },
+    "pages" : [ 171, 308, 532 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2016-01-12",
+      "text" : "Updated 1/12/2016"
+    },
+    "pages" : [ 173, 297, 521 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-01-12",
+      "text" : "1/12/2016"
+    },
+    "pages" : [ 531 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2016-01-15",
+      "text" : "Updated 1/15/16"
+    },
+    "pages" : [ 291 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-01-26",
+      "text" : "01/26/2016"
+    },
+    "pages" : [ 170, 293 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-01-26",
+      "text" : "1/26/2016"
+    },
+    "pages" : [ 169 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-01-26",
+      "text" : "DATE: 01/26/2016"
+    },
+    "pages" : [ 296 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-01-26",
+      "text" : "January 26, 2016"
+    },
+    "pages" : [ 171, 308, 532 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2016-01-26",
+      "text" : "Today's Date: 01/26/2016"
+    },
+    "pages" : [ 291, 292, 295 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-01-26",
+      "text" : "Date: 01/26/2016"
+    },
+    "pages" : [ 294 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2016-02-04",
+      "text" : "Today's Date: 2 4,16"
+    },
+    "pages" : [ 521 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-02-16",
+      "text" : "Date: 2/16  16"
+    },
+    "pages" : [ 307 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2016-02-16",
+      "text" : "Today's Date: 2/16 16"
+    },
+    "pages" : [ 181, 526 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-02-16",
+      "text" : "Date: 2/16 16"
+    },
+    "pages" : [ 175, 179, 299, 523 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-02-16",
+      "text" : "2/16 16"
+    },
+    "pages" : [ 302 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2016-02-16",
+      "text" : "Today's Date: 2/16/16"
+    },
+    "pages" : [ 176, 177, 300, 524 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-02-16",
+      "text" : "02/16/2016"
+    },
+    "pages" : [ 94, 171, 308, 309, 532, 533 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-02-16",
+      "text" : "Date: 2/16/16"
+    },
+    "pages" : [ 180, 301, 305, 525, 528, 529 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-02-16",
+      "text" : "2/16  16"
+    },
+    "pages" : [ 531 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-05-02",
+      "text" : "May 2, 2016"
+    },
+    "pages" : [ 575 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-05-09",
+      "text" : "May 9, 2016"
+    },
+    "pages" : [ 484, 575 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-06-13",
+      "text" : "JUNE 13, 2016"
+    },
+    "pages" : [ 547 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-07-03",
+      "text" : "7 3/2016"
+    },
+    "pages" : [ 568 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-07-21",
+      "text" : "07/21/2016"
+    },
+    "pages" : [ 57, 366 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-02",
+      "text" : "AUG-02-2016"
+    },
+    "pages" : [ 486, 489, 569 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-03",
+      "text" : "Aug-3-2016"
+    },
+    "pages" : [ 485, 488, 562, 568 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-05",
+      "text" : "Aug-5-2016"
+    },
+    "pages" : [ 561 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-05",
+      "text" : "8/ 5/2016"
+    },
+    "pages" : [ 487, 561 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-08-21",
+      "text" : "Date: 08/21/2016"
+    },
+    "pages" : [ 127 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-09-21",
+      "text" : "Date: 09/21/2016"
+    },
+    "pages" : [ 423 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-07-05",
+      "text" : "July 5, 2017"
+    },
+    "pages" : [ 491, 554, 555, 559 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-07-05",
+      "text" : "July 5,2017"
+    },
+    "pages" : [ 541 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-07-05",
+      "text" : "July 5.2017"
+    },
+    "pages" : [ 540 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-07-12",
+      "text" : "07/12/2017"
+    },
+    "pages" : [ 554 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-08-30",
+      "text" : "08/30/2017"
+    },
+    "pages" : [ 473 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-09-07",
+      "text" : "September 7, 2017"
+    },
+    "pages" : [ 535 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-09-07",
+      "text" : "September 7. 2017"
+    },
+    "pages" : [ 537 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-09-08",
+      "text" : "9/8/2017"
+    },
+    "pages" : [ 536 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-10-26",
+      "text" : "10/26/2017"
+    },
+    "pages" : [ 538 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2018-04-17",
+      "text" : "Updated 04/17/18"
+    },
+    "pages" : [ 391 ]
+  }, {
+    "attribute" : {
+      "value" : "2018-05-27",
+      "text" : "May 27, 2018"
+    },
+    "pages" : [ 546 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2018-08-11",
+      "text" : "Date: 08/11/2018"
+    },
+    "pages" : [ 51 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2018-08-12",
+      "text" : "DATE OF EXAM: 08/12/2018"
+    },
+    "pages" : [ 364 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2018-09-10",
+      "text" : "Today's Date: 09/10/2018"
+    },
+    "pages" : [ 116 ]
+  }, {
+    "attribute" : {
+      "value" : "2071-07-21",
+      "text" : "07/21/2071"
+    },
+    "pages" : [ 437 ]
+  }, {
+    "attribute" : {
+      "value" : "3558-05-03",
+      "text" : "53 3558"
+    },
+    "pages" : [ 483 ]
+  }, {
+    "attribute" : {
+      "value" : "7201-07-21",
+      "text" : "07/21/7201"
+    },
+    "pages" : [ 138 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:24:22",
+  "id" : 60,
+  "file" : {
+    "id" : "1s7GqO96GJ9xmfb2nnV1LnDCuvxfi0aGv",
+    "name" : "MR- Physicians Group Dxd X-Ray-75731.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 30,
+  "attributes" : [ {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB : 02/09/1991"
+    },
+    "pages" : [ 1, 6, 12 ]
+  }, {
+    "attribute" : {
+      "value" : "2011-09-10",
+      "text" : "9,10,11"
+    },
+    "pages" : [ 14 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "07/21/2015"
+    },
+    "pages" : [ 1, 3, 4, 6, 12 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-04",
+      "text" : "8/4/2015"
+    },
+    "pages" : [ 16 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-08-04",
+      "text" : "Date : 08/04/2015"
+    },
+    "pages" : [ 7, 8, 9, 10, 11 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-04",
+      "text" : "08/04/2015"
+    },
+    "pages" : [ 3 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-06",
+      "text" : "8/6/2015"
+    },
+    "pages" : [ 16 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-18",
+      "text" : "08/18/2015"
+    },
+    "pages" : [ 1, 3, 6, 7, 8, 9, 10, 11, 12 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:33:40",
+  "id" : 61,
+  "file" : {
+    "id" : "1viZyVjh4YCLX96tdr3CrHDwBecvpPDr7",
+    "name" : "MR- Comprehensive Pain Management-75742.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 52,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1941-02-03",
+      "text" : "41,2,3"
+    },
+    "pages" : [ 37 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "2/9/91"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 22, 36, 49, 51 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 02/09/1991"
+    },
+    "pages" : [ 18 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2011-03-14",
+      "text" : "Updated 03/14/11"
+    },
+    "pages" : [ 22, 36 ]
+  }, {
+    "attribute" : {
+      "value" : "2012-03-04",
+      "text" : "12,3,4"
+    },
+    "pages" : [ 37 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-01-04",
+      "text" : "1 4/ 2015"
+    },
+    "pages" : [ 30 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "7/21/15"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-07-21",
+      "text" : "07/21/2015"
+    },
+    "pages" : [ 18 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "DATE OF INJURY: 7/21/15"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "date of injury",
+      "value" : "2015-07-21",
+      "text" : "Date of INJURY: 07/21/2015"
+    },
+    "pages" : [ 22, 36, 51 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-12",
+      "text" : "8/12/15"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2015-09-09",
+      "text" : "DATE OF EXAM: 9/9/15"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-09-09",
+      "text" : "Date: 09/09/2015"
+    },
+    "pages" : [ 4, 5, 6, 8, 9, 10, 11, 12 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-10-14",
+      "text" : "Date: 10/14/2015"
+    },
+    "pages" : [ 18, 20, 22, 24, 25, 26 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-10-14",
+      "text" : "10/14/2015"
+    },
+    "pages" : [ 23, 29 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-10-14",
+      "text" : "Today's Date: 10/14/2015"
+    },
+    "pages" : [ 19 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-10-14",
+      "text" : "DATE: 10/14/2015"
+    },
+    "pages" : [ 21 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2015-11-11",
+      "text" : "Today's Date: 11/11/2015"
+    },
+    "pages" : [ 37 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-11-11",
+      "text" : "11/11/2015"
+    },
+    "pages" : [ 46 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2015-11-11",
+      "text" : "Date: 11/11/2015"
+    },
+    "pages" : [ 35, 36, 38, 39, 47 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2016-01-15",
+      "text" : "Updated 1/15/16"
+    },
+    "pages" : [ 51 ]
+  }, {
+    "attribute" : {
+      "name" : "today's date",
+      "value" : "2016-01-26",
+      "text" : "Today's Date: 01/26/2016"
+    },
+    "pages" : [ 49, 51 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-01-26",
+      "text" : "DATE: 01/26/2016"
+    },
+    "pages" : [ 50 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-01-26",
+      "text" : "Date: 01/26/2016"
+    },
+    "pages" : [ 52 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2018-11-11",
+      "text" : "Date: 11/11/2018"
+    },
+    "pages" : [ 33 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:54:40",
+  "id" : 62,
+  "file" : {
+    "id" : "10eW2KeF6EiQWR5rmoliTaGgCSsiaPzxl",
+    "name" : "MR BayCare HomeCare-.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 136,
+  "attributes" : [ {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1931-02-03",
+      "text" : "DOB: 02/03/1931"
+    },
+    "pages" : [ 72 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1931-02-09",
+      "text" : "DOB: 02/09/1931"
+    },
+    "pages" : [ 136 ]
+  }, {
+    "attribute" : {
+      "value" : "1971-01-04",
+      "text" : "1/4, 71"
+    },
+    "pages" : [ 133 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-03",
+      "text" : "DOB: 02/03/1991"
+    },
+    "pages" : [ 92 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-05",
+      "text" : "DOB: 02/05/1991"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 135 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 02/09/1991"
+    },
+    "pages" : [ 16, 38 ]
+  }, {
+    "attribute" : {
+      "value" : "2010-04-20",
+      "text" : "4-20-10"
+    },
+    "pages" : [ 128 ]
+  }, {
+    "attribute" : {
+      "value" : "2011-04-20",
+      "text" : "4-20-11"
+    },
+    "pages" : [ 130 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-26",
+      "text" : "04/26/2017"
+    },
+    "pages" : [ 63 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-29",
+      "text" : "04/29/2017"
+    },
+    "pages" : [ 133 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-30",
+      "text" : "04/30/2017"
+    },
+    "pages" : [ 1, 72, 135, 136 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-01",
+      "text" : "05/01/2017"
+    },
+    "pages" : [ 61, 72, 84, 115, 121, 122, 133 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-01",
+      "text" : "Print Date: 05/01/2017"
+    },
+    "pages" : [ 60, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 122, 123, 124, 125, 126, 127 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-05-01",
+      "text" : "date: 05/01/2017"
+    },
+    "pages" : [ 83 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-02",
+      "text" : "Print Date: 05/02/2017"
+    },
+    "pages" : [ 114, 115, 116, 117, 118, 120 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-02",
+      "text" : "05/02/2017"
+    },
+    "pages" : [ 119 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-05-03",
+      "text" : "Date: 05/03/2017"
+    },
+    "pages" : [ 136 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-03",
+      "text" : "05/03/2017"
+    },
+    "pages" : [ 108, 110 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-03",
+      "text" : "Print Date: 05/03/2017"
+    },
+    "pages" : [ 107, 109, 110, 111, 112, 113, 136 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-05",
+      "text" : "05/05/2017"
+    },
+    "pages" : [ 86, 87, 92, 97 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-05",
+      "text" : "Print Date: 05/05/2017"
+    },
+    "pages" : [ 85, 86, 88, 89, 90, 91, 93, 94, 95, 96, 98, 99, 100, 101, 102, 103, 104, 105, 106 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-07",
+      "text" : "Print Date: 05/07/2017"
+    },
+    "pages" : [ 72, 73, 74, 75, 77, 78, 79, 82, 83, 84 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-07",
+      "text" : "05/07/2017"
+    },
+    "pages" : [ 76, 81 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-08",
+      "text" : "Print Date: 05/08/2017"
+    },
+    "pages" : [ 53, 54, 55, 56, 57, 58 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-08",
+      "text" : "05/08/2017"
+    },
+    "pages" : [ 54, 59 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-09",
+      "text" : "05/09/2017"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-11",
+      "text" : "05/11/2017"
+    },
+    "pages" : [ 38, 47 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-11",
+      "text" : "Print Date: 05/11/2017"
+    },
+    "pages" : [ 38, 39, 40, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51, 52 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-14",
+      "text" : "05/14/2017"
+    },
+    "pages" : [ 84, 134 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-15",
+      "text" : "05/15/2017"
+    },
+    "pages" : [ 31, 32, 34 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-15",
+      "text" : "Print Date: 05/15/2017"
+    },
+    "pages" : [ 31, 32, 33, 35, 36, 37 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-05-16",
+      "text" : "date: 05/16/2017"
+    },
+    "pages" : [ 28 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-16",
+      "text" : "05/16/2017"
+    },
+    "pages" : [ 16 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-21",
+      "text" : "05/21/2017"
+    },
+    "pages" : [ 7, 15, 17, 20, 21, 24 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-21",
+      "text" : "Print Date: 05/21/2017"
+    },
+    "pages" : [ 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 22, 23, 25, 26, 27, 28, 29, 30 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-05-28",
+      "text" : "Date: 05/28/2017"
+    },
+    "pages" : [ 83 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-28",
+      "text" : "05/28/2017"
+    },
+    "pages" : [ 84, 134 ]
+  }, {
+    "attribute" : {
+      "name" : "print date",
+      "value" : "2017-05-31",
+      "text" : "Print Date: 05/31/2017"
+    },
+    "pages" : [ 133, 134 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-06-28",
+      "text" : "06/28/2017"
+    },
+    "pages" : [ 72, 135 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-06-28",
+      "text" : "6/28/17"
+    },
+    "pages" : [ 134 ]
+  }, {
+    "attribute" : {
+      "value" : "2047-05-31",
+      "text" : "05/31/2047"
+    },
+    "pages" : [ 135 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:56:00",
+  "id" : 63,
+  "file" : {
+    "id" : "1E_35JxPTfIhR-CGOEQYvz7JAF1r-4KET",
+    "name" : "MR- Spine Rehabilitations Specialists-75732.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 9,
+  "attributes" : [ {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB 02/09/1991"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 1, 5 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-08-01",
+      "text" : "DATE 08/01/2016"
+    },
+    "pages" : [ 6 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-02",
+      "text" : "08/02/2016"
+    },
+    "pages" : [ 3, 8 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-08-02",
+      "text" : "DATE 08/02/2016"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-03",
+      "text" : "AUG-03-2016"
+    },
+    "pages" : [ 1, 2, 3, 4 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2016-09-06",
+      "text" : "DATE 09/06/2016"
+    },
+    "pages" : [ 5 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-09-06",
+      "text" : "09/06/16"
+    },
+    "pages" : [ 6 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-09-07",
+      "text" : "SEP-07-2016"
+    },
+    "pages" : [ 5, 6, 7, 8 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:56:26",
+  "id" : 64,
+  "file" : {
+    "id" : "1fInpFMSDEj-9n4Ay_0nGk7AdY5MjtKZ7",
+    "name" : "MR- Rose Radiology-75741.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 3,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2015-09-25",
+      "text" : "DATE OF EXAM: 09/25/15"
+    },
+    "pages" : [ 1 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:56:51",
+  "id" : 65,
+  "file" : {
+    "id" : "1bsvNrcSz-03CCGrOmYg7iloenKFM0btx",
+    "name" : "MR- Physicians Group MRI-75731.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 3,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 1, 2 ]
+  }, {
+    "attribute" : {
+      "value" : "1994-05-04",
+      "text" : "05 494"
+    },
+    "pages" : [ 3 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2015-08-12",
+      "text" : "DATE OF EXAM: 08/12/2015"
+    },
+    "pages" : [ 1, 2 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T10:57:47",
+  "id" : 66,
+  "file" : {
+    "id" : "1f7fGDng4RrRPG1XyInh8S43SgPDL8LkW",
+    "name" : "MR- Sarasota MRI-75751.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 4,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1891-02-09",
+      "text" : "02/09/1891"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 3, 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2015-08-03",
+      "text" : "AUG-03-2015"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-06-08",
+      "text" : "6/8/2016"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "name" : "date of exam",
+      "value" : "2016-08-05",
+      "text" : "DATE OF EXAM: 08/05/2016"
+    },
+    "pages" : [ 2, 3, 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-06",
+      "text" : "8/6/2016"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-08-08",
+      "text" : "08/8/2016"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-09-07",
+      "text" : "SEP-07-2016"
+    },
+    "pages" : [ 2, 3, 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-09-08",
+      "text" : "9/8/2016"
+    },
+    "pages" : [ 3 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T11:00:16",
+  "id" : 67,
+  "file" : {
+    "id" : "1pcc4UyN7SNJlKQx7Q6M-mIG1qImMl_2e",
+    "name" : "Accident Report-212822.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 5,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1952-02-21",
+      "text" : "21/Feb/1952"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "09/Feb/1991"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-03-07",
+      "text" : "03/07/2016"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2018-01-17",
+      "text" : "17/Jan/2018"
+    },
+    "pages" : [ 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2019-02-21",
+      "text" : "21/Feb/2019"
+    },
+    "pages" : [ 4 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T11:00:43",
+  "id" : 68,
+  "file" : {
+    "id" : "1V9oweWTLwbKvndzrFZtULtBiL2ZO2cvM",
+    "name" : "MR Partners Imaging-.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 3,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 1, 2, 3 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-24",
+      "text" : "05/24/17"
+    },
+    "pages" : [ 2, 3 ]
+  }, {
+    "attribute" : {
+      "name" : "service date",
+      "value" : "2017-05-24",
+      "text" : "Service Date: 05/24/2017"
+    },
+    "pages" : [ 1, 2, 3 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-05-24",
+      "text" : "May 24, 2017"
+    },
+    "pages" : [ 2, 3 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T11:01:06",
+  "id" : 69,
+  "file" : {
+    "id" : "1d2pxonqizR1_WzGSLy7rVl8682KGDpy8",
+    "name" : "MR Sarasota Robotic Sx-.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 2,
+  "attributes" : [ {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 02/09/1991"
+    },
+    "pages" : [ 1, 2 ]
+  }, {
+    "attribute" : {
+      "name" : "date of procedure",
+      "value" : "2017-04-27",
+      "text" : "DATE OF PROCEDURE: Apnl 27,2017"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "admit date",
+      "value" : "2017-04-27",
+      "text" : "Admit Date: 04/27/2017"
+    },
+    "pages" : [ 1, 2 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-04-27",
+      "text" : "04/27/2017"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "name" : "signed date",
+      "value" : "2017-04-28",
+      "text" : "Signed on 04/28/2017"
+    },
+    "pages" : [ 2 ]
+  }, {
+    "attribute" : {
+      "name" : "update date",
+      "value" : "2017-04-28",
+      "text" : "Last Updated: 04/28/2017"
+    },
+    "pages" : [ 2 ]
+  } ]
+}, {
+  "createdOn" : "2019-03-23T15:47:34",
+  "modifiedOn" : "2019-03-25T11:02:40",
+  "id" : 70,
+  "file" : {
+    "id" : "1vyHCWVcDKEyZqvQCbXxrvm0aObRHRvwK",
+    "name" : "Carols Diaz, MD - Spine Sport and Physical Medicine Center - MR - DOS 11-27-17 to 12-7-17 updated 4-3-18-89200.pdf"
+  },
+  "status" : "ready",
+  "numberOfPages" : 9,
+  "attributes" : [ {
+    "attribute" : {
+      "value" : "1991-02-09",
+      "text" : "02/09/1991"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "date of birth",
+      "value" : "1991-02-09",
+      "text" : "DOB: 02/09/1991"
+    },
+    "pages" : [ 2, 4, 5, 6 ]
+  }, {
+    "attribute" : {
+      "value" : "2016-02-20",
+      "text" : "02/20/2016"
+    },
+    "pages" : [ 5 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-01",
+      "text" : "11/01/2017"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-11-27",
+      "text" : "Date: 11/27/2017"
+    },
+    "pages" : [ 2, 3, 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-27",
+      "text" : "Nov 27 2017"
+    },
+    "pages" : [ 3, 4 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-11-27",
+      "text" : "November 27, 2017"
+    },
+    "pages" : [ 2, 3 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-12-07",
+      "text" : "Date: 12/7/2017"
+    },
+    "pages" : [ 7, 8, 9 ]
+  }, {
+    "attribute" : {
+      "name" : "date",
+      "value" : "2017-12-07",
+      "text" : "Date: 12/07/2017"
+    },
+    "pages" : [ 6 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-12-07",
+      "text" : "12/07/2017"
+    },
+    "pages" : [ 5 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-12-07",
+      "text" : "Dec 7 2017"
+    },
+    "pages" : [ 5, 6 ]
+  }, {
+    "attribute" : {
+      "value" : "2017-12-07",
+      "text" : "December 7, 2017"
+    },
+    "pages" : [ 5 ]
+  }, {
+    "attribute" : {
+      "value" : "2018-02-07",
+      "text" : "02/07/2018"
+    },
+    "pages" : [ 1 ]
+  }, {
+    "attribute" : {
+      "value" : "2018-02-20",
+      "text" : "02/20/2018"
+    },
+    "pages" : [ 7 ]
+  }, {
+    "attribute" : {
+      "value" : "7017-11-27",
+      "text" : "Nov 27 7017"
+    },
+    "pages" : [ 2 ]
+  } ]
+} ]
