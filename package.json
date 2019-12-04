@@ -2,7 +2,7 @@
   "name": "ivaneyko.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ivaneyko.github.io/public",
+  "homepage": "https://ivaneyko.github.io",
   "dependencies": {
     "@types/jest": "24.0.23",
     "@types/node": "12.12.14",
@@ -15,7 +15,7 @@
     "typescript": "3.7.3"
   },
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
