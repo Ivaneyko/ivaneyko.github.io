@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+
+$mdc-theme-primary: #00bcd4;
+$mdc-theme-secondary: #3f51b5;
+
+@import '@material/elevation/mdc-elevation.scss';
+@import '@material/react-button/index.scss';
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+
+  font-family: 'Roboto', sans-serif;
+}
+
+.AppRoot {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+// Area
+.Area {
+
+}
+
+// Area--hero
+.Area--hero {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: $mdc-theme-primary;
+  .Area_head {
+
+  }
+  .Area_body {
+    text-align: center;
+    &_image {
+      position: relative;
+
+      width: 15rem;
+      height: 15rem;
+
+      border-radius: 50%;
+      margin-left: auto;
+      margin-right: auto;
+
+      overflow: hidden;
+      img {
+        max-width: 100%;
+      }
+    }
+    &_title {
+      color: white;
+    }
+    &_description {
+      color: white;
+    }
+  }
+  .Area_foot {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    &_link {
+      @include mdc-button-ink-color(white);
+      @include mdc-states(white);
+    }
+  }
+}

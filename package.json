@@ -4,18 +4,21 @@
   "private": true,
   "homepage": "https://ivaneyko.github.io",
   "dependencies": {
+    "@material/elevation": "^4.0.0",
+    "@material/react-button": "^0.15.0",
     "@types/jest": "24.0.23",
     "@types/node": "12.12.14",
     "@types/react": "16.9.14",
     "@types/react-dom": "16.9.4",
     "gh-pages": "^2.1.1",
+    "node-sass": "^4.13.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0",
     "typescript": "3.7.3"
   },
   "scripts": {
-    "deploy": "gh-pages -d public",
+    "deploy": "gh-pages -b master -d public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
